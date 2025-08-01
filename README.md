@@ -36,8 +36,8 @@
 
 ## 📫 Let's Connect
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/bodrulhuda](https://linkedin.com/in/bodrulhuda) *(if available)*  
+- Email: [b.huda009@gmail.com](mailto:your.email@example.com)  
+- LinkedIn: [linkedin.com/in/bodrul-attasham-5526532a9](https://linkedin.com/in/bodrulhuda) *(if available)*  
 - Portfolio: [yourwebsite.com](https://yourwebsite.com) *(if any)*
 
 ---
