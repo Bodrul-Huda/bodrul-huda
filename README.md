@@ -37,7 +37,7 @@
 ## 📫 Let's Connect
 
 - Email: [b.huda009@gmail.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/bodrul-attasham-5526532a9](https://linkedin.com/in/bodrulhuda) *(if available)*  
+- LinkedIn: [linkedin.com/in/bodrul-attasham](https://linkedin.com/in/bodrulhuda) *(if available)*  
 - Portfolio: [yourwebsite.com](https://yourwebsite.com) *(if any)*
 
 ---
